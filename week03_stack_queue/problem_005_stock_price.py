@@ -1,6 +1,6 @@
 """
 문제명: 주식가격
-출처: Programmers
+출처: Programmers 
 유형: Stack / Queue / Implementation
 난이도: Level 2
 상태: Solved
